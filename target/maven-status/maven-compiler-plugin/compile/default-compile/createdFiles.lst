@@ -1,0 +1,8 @@
+com\stackfortech\multipartDemo\MultipartDemoApplication.class
+com\stackfortech\multipartDemo\response\FileUploadResponse.class
+com\stackfortech\multipartDemo\controller\FileUploadController.class
+com\stackfortech\multipartDemo\exception\MultipartUploadExceptionHandler.class
+com\stackfortech\multipartDemo\model\UploadedFile.class
+com\stackfortech\multipartDemo\service\FileUploadService.class
+com\stackfortech\multipartDemo\repository\FileUploadRepository.class
+com\stackfortech\multipartDemo\service\serviceImpl\FileUploadServiceImpl.class
